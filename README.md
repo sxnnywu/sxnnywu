@@ -2,7 +2,7 @@
 
 🎓 I'm a **CS/BBA Double Degree student** at the **University of Waterloo** and **Wilfrid Laurier University**, passionate about building products that live at the intersection of **tech, business, and social impact**.
 
-🚧 Ièm currently working on **Nom Nom** — a discreet safety app for individuals facing domestic abuse, disguised as a bakery app. Built with React Native, AWS, MongoDB, and more.
+🚧 I'm currently working on **Nom Nom** — a discreet safety app for individuals facing domestic abuse, disguised as a bakery app. Built with React Native, AWS, MongoDB, and more.
 
 📬 Feel free to reach out if you're building something cool or want to chat about hackathons, startups, or human-centered design.
 
