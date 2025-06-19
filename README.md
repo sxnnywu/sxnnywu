@@ -2,14 +2,11 @@
 
 🎓 I'm a **CS/BBA Double Degree student** at the **University of Waterloo** and **Wilfrid Laurier University**, passionate about building products that live at the intersection of **tech, business, and social impact**.
 
-🚧 Currently working on:  
-**Nom Nom** — a discreet safety app for individuals facing domestic abuse, disguised as a bakery app. Built with React Native, AWS, MongoDB, and more.
+🚧 Ièm currently working on **Nom Nom** — a discreet safety app for individuals facing domestic abuse, disguised as a bakery app. Built with React Native, AWS, MongoDB, and more.
 
-📬 Let’s connect:  
-Feel free to reach out if you're building something cool or want to chat about hackathons, startups, or human-centered design.
+📬 Feel free to reach out if you're building something cool or want to chat about hackathons, startups, or human-centered design.
 
-☀️ Fun fact:  
-I function on iced matcha and Notion templates.
+☀️ Fun fact:  I function on iced matcha and Notion templates.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sxnny_wu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sunny-wu-1959942b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:w.sunny0618@gmail.com) 
