@@ -4,6 +4,8 @@
 
 🚧 I'm currently working on **Nom Nom** — a discreet safety app for individuals facing domestic abuse, disguised as a bakery app. Built with React Native, AWS, MongoDB, and more.
 
+💃 When I’m not coding, I’m probably dancing -- or working on The Pink Stairs, a nonprofit I founded to empower girls worldwide.
+
 📬 Feel free to reach out if you're building something cool or want to chat about hackathons, startups, or human-centered design.
 
 ☀️ Fun fact:  I function on iced matcha and Notion templates.
