@@ -1,14 +1,17 @@
 ## Hi, I'm Sunny
 
-🎓 I'm a **CS/BBA Double Degree student** at the **University of Waterloo** and **Wilfrid Laurier University**, passionate about building products that live at the intersection of **tech, business, and social impact**.
+🎓 I'm a **double degree** student studying **Computer Science @ University of Waterloo** and **Business Administration @ Wilfrid Laurier University**. 
 
-🚧 I'm currently working on **Nom Nom** — a discreet safety app for individuals facing domestic abuse, disguised as a bakery app. Built with React Native, AWS, MongoDB, and more.
+I’m passionate about building tools that make life better. I’m especially interested in **fast-moving teams, systems design, and product-focused development**.
 
-💃 When I’m not coding, I’m probably dancing or working on The Pink Stairs, a nonprofit I founded to empower girls worldwide.
+🚧 I'm currently working on **Nom Nom** — a **DMZ backed safety app** for individuals facing domestic abuse, disguised as a bakery app. Built with React Native, AWS, MongoDB, and more.
 
-📬 Feel free to reach out if you're building something cool or want to chat about hackathons, startups, or human-centered design.
+💃 When I’m not coding, I’m probably dancing or working on The Pink Stairs, a feminist nonprofit I founded thats grown to 26 countries and 8.4M+ campaign reach.
+
+📬 Feel free to reach out if you're building something cool or want to chat about anything!
 
 ☀️ Fun fact:  I function on iced matcha and Notion templates.
+🎭 Fun fact #2: I'n a theatre geek! In high school I directed 2 award-winning plays.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sxnny_wu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sunny-wu-1959942b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:w.sunny0618@gmail.com) 
