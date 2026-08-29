@@ -1,19 +1,7 @@
 # 💫 About Me:
-hey, i'm Sunny ~ glad you're here :)
+hey, i'm Sunny ☀️ 
 
 i'm a double degree student studying cs @ uwaterloo and business @ lazaridis
-
-some cool things about me:
-- i scaled my nonprofit to 8M+ girls in 26 countries
-- i grew my startup's waitlist to 15k+ signups
-- i drove 300k+ impressions making content for a prosumer startup ($35M ARR)
-
-what i'm currently up to:
-- growth ops @ 1851 labs (450k+ impressions)
-- growth @ polarity (70k+ impressions)
-- leading 4 devs to build the ignitionhacks portal from scratch
-- incoming swe @ rocket
-- incoming pm @ uw blueprint
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sxnny_wu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sxnny_wu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunny-wu-dev/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sxnny_wu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:w.sunny0618@gmail.com) 
