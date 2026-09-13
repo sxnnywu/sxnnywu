@@ -1,16 +1,16 @@
-# hey, i'm Sunny ☀️
+# Hey, I'm Sunny ☀️
 
-learning things by making things.
+Learning things by making things.
 
 - **Computer Science** @ University of Waterloo
 - **Business Administration** @ Wilfrid Laurier University
 
-## what i'm up to
+## What I'm up to
 
 - **Co-founder @ Oro** — building an AI stylist for mobile and SMS, with 2,000+ organic downloads.
 - **Previously SWE intern @ Rocket** — shipped an AI skill registry for 5,400+ engineers.
 
-## my interests in tech
+## My interests in tech
 
 - **Experience:** full-stack web and mobile development, developer tooling, AI agents, and cloud infrastructure.
 - **Going deeper into applied AI:** agent reliability (evals, observability, and memory) and visual recommendation systems.
