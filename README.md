@@ -2,6 +2,8 @@
 
 Learning things by making things.
 
+**[See my work at sunny-wu.ca →](https://www.sunny-wu.ca/)**
+
 - **Computer Science** @ University of Waterloo
 - **Business Administration** @ Wilfrid Laurier University
 
@@ -15,4 +17,4 @@ Learning things by making things.
 - **Experience:** full-stack web and mobile development, developer tooling, AI agents, and cloud infrastructure.
 - **Going deeper into applied AI:** agent reliability (evals, observability, and memory) and visual recommendation systems.
 
-[Website](https://www.sunny-wu.ca/) · [LinkedIn](https://www.linkedin.com/in/sunny-wu-dev/) · [Email](mailto:w.sunny0618@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sunny-wu-dev/) · [Email](mailto:w.sunny0618@gmail.com)
