@@ -9,12 +9,12 @@ Learning things by making things.
 
 ## What I'm up to
 
-- **Co-founder @ Oro** — building an AI stylist for mobile and SMS, with 2,000+ organic downloads.
-- **Previously SWE intern @ Rocket** — shipped an AI skill registry for 5,400+ engineers.
+- **Co-founder @ Oro** — building an AI fashion stylist for SMS. Previously a mobile app with 2000+ organic downloads.
+- **Previously SWE intern @ Rocket** — shipped an AI skill registry for 5400+ engineers.
 
 ## My interests in tech
 
-- **Experience:** full-stack web and mobile development, developer tooling, AI agents, and cloud infrastructure.
-- **Going deeper into applied AI:** agent reliability (evals, observability, and memory) and visual recommendation systems.
+- **Experience:** full-stack web and mobile development, developer tooling, UI/UX, AI agents.
+- **Going deeper into applied AI:** agent reliability (evals, observability, and memory).
 
 [LinkedIn](https://www.linkedin.com/in/sunny-wu-dev/) · [Email](mailto:w.sunny0618@gmail.com)
